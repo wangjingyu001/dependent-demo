@@ -1,9 +1,0 @@
-{
-  "name": "dependent-demo",
-  "version": "1.0.0",
-  "description": "A demo repo that depends on wangjingyu001/my-vue-project",
-  "private": true,
-  "dependencies": {
-    "my-vue-project": "git+https://github.com/wangjingyu001/my-vue-project.git"
-  }
-}
