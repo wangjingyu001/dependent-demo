@@ -1,1 +1,0 @@
-git+https://github.com/wangjingyu001/my-vue-project.git
